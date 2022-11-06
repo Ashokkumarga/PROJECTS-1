@@ -1,0 +1,244 @@
+body{
+    background-image:url("https://b.zmtcdn.com/mx-onboarding-hero87f77501659a5656cad54d98e72bf0d81627911821.webp");
+    background-repeat:no-repeat;
+    background-size:100%;
+    
+}
+
+.ak{
+    color: #c9b3b3;
+    display:inline;
+    font-family: Arial, sans-serif;
+    font-size:medium;
+    font-size: larger;
+    margin:0px;
+   
+    
+    
+}
+.pk{
+    
+    display: inline;
+    margin: 2px;
+    
+
+    
+    
+
+}
+a{
+    text-decoration:none;
+
+}
+
+.dp{
+    font-size: 100px;
+    color:white;
+    text-align: left;
+    margin: 32px;
+    font-family:serif ;
+    margin-bottom:0px ;
+    margin-top:35px;
+    text-shadow: 3px 3px 10px rgb(231, 48, 12);
+    
+    
+}
+span{
+    color: red;
+    margin:32px;
+    font-size: 150px;
+    
+    margin-bottom:50px;
+    
+    
+}
+
+h1{
+    color:rgb(0, 0, 0);
+    margin:52px;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-bottom:30px;
+    display:inline;
+    background: linear-gradient(to right, #ffffff 50%, hsl(0, 100%, 50%) 50%);
+
+}
+hr{
+    
+    color:#0a0707e1;
+    margin-bottom:76px;
+    
+}
+.prem{
+    margin:32px;
+    font-size: medium;
+    background-image: url(https://i.pinimg.com/originals/eb/4f/74/eb4f749fd1c95eefe5cccbcd325d8299.jpg);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-repeat:no-repeat;
+    background-position-x: right;
+    background-size:37%;
+     font-weight:200;
+     margin-bottom: 70px;
+}
+marquee{
+    color:rgb(252, 252, 252);
+    font-size: 20px;
+    
+    margin-top:3px;
+}
+header{
+    color:white;
+    font-size:20px;
+    text-align: center;
+    border:1px solid ;
+    border-radius: 10px;
+    border-color: rgb(103, 103, 18);
+    
+    display:block;
+}
+h3{
+    font-size:150%;
+    text-align: center;
+}
+li{
+    display: block;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ul{
+    margin-left:-37px;
+    margin-top: 0%;
+}
+h4{
+    text-align: center;
+}
+
+.vk{
+    color:rgb(0, 0, 0);
+    font-size:19px;
+    margin:12px;
+    margin-bottom: 0px;
+    margin-left: 1160px;
+    text-align: left;
+    background: rgb(255, 255, 255);
+}
+.vl{
+    color: red;
+    margin:12px;
+    font-size: 15px;
+    margin-bottom: 0px;
+    text-align: right;
+    margin-top:2px;
+    
+}
+
+.vo{
+    margin:112px;
+    font-size: 50px;
+    margin-top: 0px;
+    color: red;
+    margin-bottom: 0;
+
+}
+
+.vh{
+    color:white;
+    margin:72px;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-bottom:0px;
+}
+
+ .vf{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0px;
+    color: rgb(6, 6, 6);
+    margin-bottom: 0;
+    text-shadow: 3px 3px 13px #0c2fca;
+ }
+ .da{
+    
+    color:rgb(255, 255, 255);
+    margin:52px;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-bottom:30px;
+    display:inline;
+    margin-right:0px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-stretch:5px;
+    background-color:black;
+    
+ }
+ .do{
+   
+    color:rgb(255, 0, 0);
+    margin:42px;
+    font-size:5px;
+    margin-left:0px;
+    display: inline;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-stretch:5px;
+    background-color:black;
+    
+
+ }
+ .prm{
+    background-image: url(https://media.istockphoto.com/photos/luxury-restaurant-table-on-sunset-picture-id502840530?k=20&m=502840530&s=612x612&w=0&h=bLXFrhpZVG7EKm47b55AbYneaExO6kZmVAHruSaxSoc=);
+
+    background-repeat: no-repeat; 
+    background-position: left;
+    margin-right: 100px;
+    background-size: 40%;
+    margin-left: 120px;
+    text-align-last:right;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+
+  .bp{
+    font-size: 30px;
+    color:rgb(49, 64, 47);
+    text-align: left;
+    margin: 32px;
+    font-family:serif ;
+    margin-right: 2px;
+    margin-left: 2px;
+    text-shadow: 2px 2px 5px rgb(243, 151, 151);
+  }
+
+  .sub{
+    background-color:rgb(0, 0, 0);
+    border-color: rgb(246, 246, 246);
+    color: white;
+    margin-left: 0px;
+    font-size:16px;
+
+  }
+
+  .tb{
+    margin-right: 400px;
+    margin-left: 400px;
+    border-radius: 10px;
+    border-color: rgb(24, 111, 198);
+    color: indigo;
+    font-size: 20px;
+  }
+ 
+  .prm1{
+    background-image: url(https://thumbs.dreamstime.com/b/restaurant-ext%C3%A9rieur-%C3%A0-la-plage-pendant-le-coucher-du-soleil-16137745.jpg);
+
+    background-repeat: no-repeat; 
+    background-position: right;
+    margin-right: 100px;
+    background-size: 40%;
+    margin-left: 0px;
+    text-align-last:left;
+    font-size: 20px;
+    margin-top: 20px;
+  }
+
+ 
