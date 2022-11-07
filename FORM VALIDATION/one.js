@@ -4,5 +4,11 @@ function myForm(){
     if (one==""){
         document.getElementById("userName").innerHTML="Please Enter Your Name"
     }
-    return false;
+    
+    let two=document.getElementById("pass").value;
+    let three=document.getElementById("repass").value;
+    if(two !== three){
+        document.getElementById("userPassword").innerHTML= "Please enter correct password"
+    }
+    return false
 }
