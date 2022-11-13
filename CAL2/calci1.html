@@ -5,55 +5,6 @@
     <title>My Calculator</title>
     <link rel="stylesheet" href="./calci.css">
     <style>
-        /* .container {
-    max-width: 350px;
-    margin: 10vh auto 0 auto;
-    box-shadow: 0px 0px 43px 17px rgb(143, 135, 135);
-}
-
-#display {
-    text-align: right;
-    height: 70px;
-    line-height: 70px;
-    padding: 16px 8px;
-    font-size: 25px;
-    border:5px solid;
-    border-bottom:0px;
-    background-color: rgb(255, 255, 255);
-}
-
-.buttons {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    border:5px solid 
-}
-
-.buttons > div {
-    border-top: 1px solid #999;
-    border-right: 1px solid#999;
-    border-left:1px solid #999;
-}
-
-.button {
-    border: 0.5px solid #999;
-    line-height: 70px;
-    text-align: center;
-    font-size: 25px;
-    cursor: pointer;
-}
-
-#equal {
-    background-color: rgb(85, 85, 255);
-    color: white;
-}
-
-.button:hover {
-    background-color: #080808;
-    color: rgb(248, 245, 245);
-    transition: 0.5s ease-in-out;
-} */
-
-
 *{
     padding:0;
     margin:0;
@@ -132,12 +83,20 @@ background-color: rgb(73, 78, 78);
 .equal:hover{
    background-color: rgb(225, 236, 236);
 }
+h1{
+    
+    color: red;
+    background-color: black;
+    display: inline;
+}
     </style>
 </head>
 <body>
+    <br><br>
+    <h1>CALCULATOR</h1><br>
     <section>
         <div class="container">
-            <div class="display" id="result"></div>
+            <div class="display" id="result">0</div>
             <div class="buttons">
                 <div class="button all-clear" onclick="clr()">AC</div>
                 <div class="button operation" onclick="view('(')">(</div>
